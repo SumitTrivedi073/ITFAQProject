@@ -9,10 +9,6 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
-    <!-- Splash screen theme -->
-    <style name="splashScreenTheme" parent="Theme.AppCompat.Light.NoActionBar">
-        <item name="android:windowBackground">@drawable/splash_screen</item>
-    </style>
 
     <!-- Main Activity theme. -->
     <style name="AppTheme.NoActionBar">

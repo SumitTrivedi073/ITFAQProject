@@ -1,10 +1,7 @@
 <resources>
-    <string name="app_name">Direct Currency Converter</string>
-    <string name="sign_up">Sign up</string>
+    <string name="app_name">ITFAQ Project</string>
     <string name="currency">Currency</string>
-    <string name="dot">.</string>
     <string name="afn">AFN</string>
-    <string name="refresh">refresh</string>
     <string name="convert">Convert</string>
     <string name="contact">Contact</string>
     <string name="converter">Converter</string>
@@ -13,4 +10,12 @@
     <string name="amount">Amount</string>
     <string name="result">Result</string>
     <string name="converted_amount">Converted Amount</string>
+
+    <string name="anagram_programme">Anagram Programme</string>
+    <string name="fibonacci_number_programme">Fibonacci number Programme</string>
+    <string name="currency_converter">currency converter</string>
+    <string name="please_write_a_word">please write a word</string>
+    <string name="apply">Apply</string>
+    <string name="fill_all_field">Please fill all field</string>
+    <string name="enter_number">Enter Number</string>
 </resources>
